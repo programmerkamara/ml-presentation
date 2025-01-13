@@ -11,7 +11,7 @@ const Team = () => {
       color: 'text-primary', // Blue color
     },
     {
-      name: 'Abdul Karim Bittar',
+      name: 'Abdulrahim Bittar',
       id: '7905',
       color: 'text-success', // Green color
     },
