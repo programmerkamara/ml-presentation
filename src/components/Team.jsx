@@ -36,8 +36,8 @@ const Team = () => {
       color: 'text-secondary', // Gray color
     },
     {
-      name: 'Osman Tholley',
-      id: '',
+      name: 'Foday Samura',
+      id: '8292',
       color: 'text-dark', // Dark color
     },
   ];
