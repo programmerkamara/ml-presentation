@@ -13,7 +13,7 @@ const Navbar = () => {
     <BSNavbar bg="dark" variant="dark" expand="lg" fixed="top">
       <Container>
         <BSNavbar.Brand href="#hero" onClick={() => scrollToSection('hero')}>
-          ML Presentation
+          Team One ML Presentation
         </BSNavbar.Brand>
         <BSNavbar.Toggle aria-controls="basic-navbar-nav" />
         <BSNavbar.Collapse id="basic-navbar-nav">
